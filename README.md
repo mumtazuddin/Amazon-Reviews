@@ -18,28 +18,23 @@ It turns out that there are many unverified positive ratings as well as extremel
 
 Models Used-
 1. Logistic Model
-2. multinomialNB Classifier
-3.
-
+2. MultinomialNB Classifier
+3. Linear Classifier
+4. Topic Modeling
 
 References:
 
- 
+1. https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 
-https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+2. https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
 
-https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+3. https://stackoverflow.com/questions/23455728/scikit-learn-balanced-subsampling
 
-https://stackoverflow.com/questions/23455728/scikit-learn-balanced-subsampling
+4. https://towardsdatascience.com/linear-classifiers-an-overview-e121135bd3bb
 
-https://towardsdatascience.com/linear-classifiers-an-overview-e121135bd3bb
-
-http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+5. http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
 
  
-
- 
-
 Name: Mumtaz Uddin
 
 Major: Data Science
